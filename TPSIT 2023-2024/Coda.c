@@ -1,5 +1,5 @@
 /*
-author: Marco Giorgis
+author: Adrian Ciobanu
 date: 26/01/2024
 es. code
 testo creazione di una coda
